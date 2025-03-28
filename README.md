@@ -1,6 +1,7 @@
 # Automated Single-File Releases with GitHub Actions (Cross-Repository) (LINUX) 💤 💤
 
 windows ... soon 🔮
+---
 
 This repository uses GitHub Actions to automatically create daily releases of a single Python file from a specified folder in a **source repository**, with releases created in a **destination repository**, ensuring no file is released more than once.
 

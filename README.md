@@ -31,7 +31,7 @@ destination-repo: repo to be commited to at the end
 
 *   A **source repository** (e.g., `source-owner/source-repo`) containing the Python files (`.py`) in a specific folder.
 *   A **destination repository** (e.g., `destination-owner/destination-repo`) where the releases will be created. **This is where you'll set up the workflow**.
-*   **Current Date and Time (UTC):** 2025-03-28 xx:yy:zz
+*   **Current Date and Time (UTC):** 2025-03-28 xx:yy:zz (hour:minute:second)
 *   **Your GitHub Username:** RobelAmare (example, use your own)
 
 ---
